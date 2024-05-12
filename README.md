@@ -18,7 +18,7 @@ Url.smali 文件  第701行
 
 ### 签名
 ~~~
-    .\apksigner.bat sign --ks tv.jks tv.apk  #apksigner.bat 在android sdk build-tools目录下
+    .\apksigner.bat sign --ks tv.jks tv.apk  #apksigner.bat 在android-sdk build-tools目录下
 
     
 ~~~
