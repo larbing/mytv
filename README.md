@@ -8,7 +8,8 @@ mytv 源码
     .locals 1
 
     .line 60
-    const-string v0, "http://tv.sonainai.com/apiv2"
+    const-string v0, "xxxxx"
 
     return-object v0
 .end method
+~~~
