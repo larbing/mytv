@@ -6,11 +6,6 @@ Url.smali 文件  第701行
     const-string v0, "xxxxx"  #改成你的接口地址
 ~~~
 
-### 反编译
-~~~
-    java -jar .\apktool.jar  -r -f d tv.apk
-~~~
-
 ### 打包
 ~~~
     java -jar .\apktool.jar  b tv
