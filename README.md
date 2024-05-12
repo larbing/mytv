@@ -13,3 +13,6 @@ mytv 源码
     return-object v0
 .end method
 ~~~
+
+### 下载地址
+[下载页面](https://github.com/larbing/mytv/releases/tag/v1)
