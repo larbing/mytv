@@ -18,7 +18,7 @@ Url.smali 文件  第701行
 
 ### 签名
 ~~~
-    .\apksigner.bat sign --ks test.jks tv.apk
+    .\apksigner.bat sign --ks tv.jks tv.apk
 ~~~
 
 
