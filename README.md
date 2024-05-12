@@ -8,7 +8,7 @@ mytv 源码
     .locals 1
 
     .line 60
-    const-string v0, "xxxxx"
+    const-string v0, "xxxxx"  #改成你的接口地址
 
     return-object v0
 .end method
