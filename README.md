@@ -2,7 +2,7 @@
 mytv 源码
 
 
-更改 smali目录下 com\ifno\tomorrowmovies\net\Url.smali  701行
+修改 Url.smali 文件  第701行
 ~~~ smali
 .method protected static getSDKVersion()Ljava/lang/String;
     .locals 1
