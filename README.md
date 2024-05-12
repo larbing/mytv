@@ -1,6 +1,4 @@
 # mytv
-mytv 源码
-
 
 修改 Url.smali 文件  第701行
 ~~~ smali
