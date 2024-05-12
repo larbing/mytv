@@ -3,28 +3,22 @@
 ### 修改接口地址
 Url.smali 文件  第701行
 ~~~ smali
-
     const-string v0, "xxxxx"  #改成你的接口地址
-
 ~~~
 
 ### 反编译
 ~~~
-java -jar .\apktool.jar  -r -f d tv.apk
+    java -jar .\apktool.jar  -r -f d tv.apk
 ~~~
 
 ### 打包
 ~~~
-
-java -jar .\apktool.jar  b tv
-
+    java -jar .\apktool.jar  b tv
 ~~~
 
 ### 签名
 ~~~
-
-.\apksigner.bat sign --ks test.jks tv.apk
-
+    .\apksigner.bat sign --ks test.jks tv.apk
 ~~~
 
 
