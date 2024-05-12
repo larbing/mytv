@@ -10,9 +10,7 @@ Url.smali 文件  第701行
 
 ### 反编译
 ~~~
-
 java -jar .\apktool.jar  -r -f d tv.apk
-
 ~~~
 
 ### 打包
